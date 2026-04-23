@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Benjamin 👋
 
-<!--
-**benjamin1408speer/benjamin1408speer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently training as a software developer (apprenticeship equivalent) with a focus on application development.
 
-Here are some ideas to get you started:
+## 💻 Focus
+- Tools Development
+- Backend Systems
+- Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Angular, TypeScript, JavaScript
+- C#, Java, Python
+- ASP.NET
+- SQL (currently learning)
+- Linux (currently learning)
+
+## 🚀 Currently
+- Building practical software projects
+- Improving my skills in backend and tools development
+
+## 📂 Projects
+➡️ Check out my pinned repositories
+
+## 📫 Contact
+- Email: benjamin1408speer@gmail.com
